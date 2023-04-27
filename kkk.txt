@@ -1,3 +1,9 @@
 Ku Klux Klan
+<<<<<<< HEAD
 new 2 salam aleikum
 Sorin e rasist
+=======
+check
+Sorin e rasist
+check merge
+>>>>>>> new
