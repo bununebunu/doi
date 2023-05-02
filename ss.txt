@@ -4,3 +4,4 @@ third
 patru
 five
 sechs
+sapte
